@@ -1,0 +1,3 @@
+﻿  testing3.cpp
+C:\Users\saundcol000\source\repos\testing3\testing3\testing3.cpp(24): warning C4715:  'chessMatchInfo::printingVector': not all control paths return a value
+  testing3.vcxproj -> C:\Users\saundcol000\source\repos\testing3\Debug\testing3.exe
